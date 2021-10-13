@@ -34,5 +34,8 @@ public class Ingridience {
         else{
             System.out.println("\"No, I can make only " + canCups + " cup(s) of coffee\"");
         }
+
+
+        System.out.println("git!!!!");
     }
 }
